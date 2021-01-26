@@ -1,0 +1,12 @@
+.main-header{
+     background: rgba(68, 108, 179, 1);
+     height: 4rem;
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     display: flex;
+     align-items: center;
+     color:white;
+     z-index: 5;
+}

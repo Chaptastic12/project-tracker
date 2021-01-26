@@ -1,0 +1,10 @@
+.card {
+     margin: 1rem;
+     padding: 1rem;
+     background: rgba(218, 223, 225, 1);
+     border-radius: 10px;
+     height: 350px;
+     width: 210px;
+     display: inline-block;
+     text-align: center;
+}
